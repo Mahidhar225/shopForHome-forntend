@@ -1,0 +1,15 @@
+.card{
+    padding-left: 20px;
+    margin: 10px;
+    display: inline-flex;
+    left: 8%;
+    box-shadow: 10px;
+}
+.card button{
+    margin: 10px;
+}
+.productsCard{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(200,189,179,0.9808298319327731) 0%, rgba(0,255,222,0.6166841736694677) 100%);
+}
+

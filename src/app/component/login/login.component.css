@@ -1,0 +1,33 @@
+.card{
+    border: none;
+    border-radius: 20px;
+    width: 500px;
+    position: absolute;
+    left: 50%;
+    bottom: 50%;
+    transform: translate(-50%,50%);
+    
+}
+.text-center h1, h6{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+.btn{
+    margin-bottom: 10px;
+    margin-left: 5px;
+}
+.card h1,h6{
+    color: black;
+}
+label{
+    color: black;
+    font-weight: bold;
+}
+
+input {
+    padding: 5px;
+}
+#optn{
+    text-decoration: none;
+}
